@@ -1,0 +1,16 @@
+body {
+  background-color: #f0f2f5;
+}
+
+.task-card {
+  margin: 10px 0;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.error {
+  border-color: red;
+}
